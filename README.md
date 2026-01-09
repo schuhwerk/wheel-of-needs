@@ -2,7 +2,7 @@
 
 An interactive, printable Wheel of Needs for non-violent communication (NVC).
 
-![Wheel of Needs](docs/wheel-of-needs.png)
+![Wheel of Needs](docs/wheel-of-needs.svg)
 
 ## Features
 - **Multilingual:** English & German.
